@@ -1,6 +1,6 @@
 # Contabilizador de Disponibilidade 
 
-Projeto desenvolvido na faculdade por três amigos que consiste em um protótipo de Arduino capaz de contar a quantidade de pessoas que entram e saem de um ônibus. 
+Projeto desenvolvido na faculdade que consiste em um protótipo de Arduino capaz de contar a quantidade de pessoas que entram e saem de um ônibus. 
 
 
 
